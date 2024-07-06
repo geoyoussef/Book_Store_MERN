@@ -8,6 +8,7 @@ This is a simple Book Store Project built using the MERN (MongoDB, Express.js, R
 Video Tutorial: https://www.youtube.com/watch?v=-42K44A1oMA&t=4s
 ## Features
 
+
 - **Backend CRUD:** The backend of this project provides CRUD operations for managing books. You can create, read, update, and delete books using the API endpoints.
 - **Backend Router:** Express.js is used to set up the backend routing. Each CRUD operation has its own route and controller for clean code separation.
 - **CORS Policy:** Cross-Origin Resource Sharing (CORS) policy is configured to allow requests from the frontend to the backend, ensuring proper communication between the two.
